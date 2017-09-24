@@ -1,0 +1,10 @@
+C:\Development\Git\interview\TTCDictionary\bin\Debug\TTCDictionary.dll
+C:\Development\Git\interview\TTCDictionary\bin\Debug\TTCDictionary.pdb
+C:\Development\Git\interview\TTCDictionary\obj\Debug\TTCDictionary.dll
+C:\Development\Git\interview\TTCDictionary\obj\Debug\TTCDictionary.pdb
+C:\Development\Git\interview\TTCDictionary\obj\Debug\TTCDictionary.csprojResolveAssemblyReference.cache
+C:\Users\Manena\Desktop\interview\TTCDictionary\bin\Debug\TTCDictionary.pdb
+C:\Users\Manena\Desktop\interview\TTCDictionary\obj\Debug\TTCDictionary.csproj.CoreCompileInputs.cache
+C:\Users\Manena\Desktop\interview\TTCDictionary\obj\Debug\TTCDictionary.pdb
+C:\Users\Manena\Desktop\interview\TTCDictionary\bin\Debug\TTCDictionary.exe
+C:\Users\Manena\Desktop\interview\TTCDictionary\obj\Debug\TTCDictionary.exe
